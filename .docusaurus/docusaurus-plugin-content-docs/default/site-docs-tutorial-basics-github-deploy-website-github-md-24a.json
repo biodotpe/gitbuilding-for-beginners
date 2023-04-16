@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics-github/deploy-website-github",
+  "id": "tutorial-basics-github/deploy-website-github",
+  "title": "Deploy a GitBuilding Website",
+  "description": "Creating a new website repository on GitHub",
+  "source": "@site/docs/tutorial-basics-github/deploy-website-github.md",
+  "sourceDirName": "tutorial-basics-github",
+  "slug": "/tutorial-basics-github/deploy-website-github",
+  "permalink": "/gitbuilding-for-begineers/pt/docs/tutorial-basics-github/deploy-website-github",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a GitBuilding Project",
+    "permalink": "/gitbuilding-for-begineers/pt/docs/tutorial-basics-github/create-a-project-windows"
+  },
+  "next": {
+    "title": "GitBuilding - Extras",
+    "permalink": "/gitbuilding-for-begineers/pt/docs/category/gitbuilding---extras"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "210": [
+      85,
+      532,
+      918,
+      210
+    ],
+    "972": [
+      972
+    ],
+    "17896441": [
+      210,
+      532,
+      918
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "0e384e19": [
+      671
+    ],
+    "14eb3368": [
+      532,
+      817
+    ],
+    "1be78505": [
+      532,
+      972
+    ],
+    "1f391b9e": [
+      210,
+      532,
+      85
+    ],
+    "24adb68b": [
+      244
+    ],
+    "31e7cfc0": [
+      17
+    ],
+    "393be207": [
+      414
+    ],
+    "444039e7": [
+      346
+    ],
+    "4e5993b3": [
+      196
+    ],
+    "935f2afb": [
+      53
+    ],
+    "a4e149cc": [
+      128
+    ],
+    "a751fde8": [
+      697
+    ],
+    "c10018fb": [
+      354
+    ],
+    "c4f5d8e4": [
+      532,
+      195
+    ],
+    "styles": [
+      85,
+      179,
+      195,
+      210,
+      303,
+      514,
+      817,
+      918,
+      532
+    ]
+  },
+  "assets": {
+    "17": {
+      "js": [
+        {
+          "file": "assets/js/31e7cfc0.3062be2d.js",
+          "hash": "3f3574eb4ba3c5b8",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/31e7cfc0.3062be2d.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.3fcf82bf.js",
+          "hash": "3df328336f5b1bd2",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/935f2afb.3fcf82bf.js"
+        }
+      ]
+    },
+    "85": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.654f5ce6.js",
+          "hash": "4df57a27ba630273",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/1f391b9e.654f5ce6.js"
+        }
+      ]
+    },
+    "128": {
+      "js": [
+        {
+          "file": "assets/js/a4e149cc.fb93569f.js",
+          "hash": "b27a7d77facd6368",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/a4e149cc.fb93569f.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.c5bf5933.js",
+          "hash": "2e00fb03fe842b19",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/main.c5bf5933.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.3b356d2a.js",
+          "hash": "04f7014426c93f62",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/c4f5d8e4.3b356d2a.js"
+        }
+      ]
+    },
+    "196": {
+      "js": [
+        {
+          "file": "assets/js/4e5993b3.efbfbfc2.js",
+          "hash": "1e8b1862994ab043",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/4e5993b3.efbfbfc2.js"
+        }
+      ]
+    },
+    "210": {
+      "js": [
+        {
+          "file": "assets/js/210.dc7a7f59.js",
+          "hash": "3d1918443063e5c8",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/210.dc7a7f59.js"
+        }
+      ]
+    },
+    "244": {
+      "js": [
+        {
+          "file": "assets/js/24adb68b.7dab0873.js",
+          "hash": "593fd314296bdbb6",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/24adb68b.7dab0873.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.d89d9b6a.js",
+          "hash": "f083211914a9de69",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/runtime~main.d89d9b6a.js"
+        }
+      ]
+    },
+    "346": {
+      "js": [
+        {
+          "file": "assets/js/444039e7.71a234e8.js",
+          "hash": "f9fb4102037f832a",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/444039e7.71a234e8.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/c10018fb.df422014.js",
+          "hash": "24736b76cc93baec",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/c10018fb.df422014.js"
+        }
+      ]
+    },
+    "414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.aee828d8.js",
+          "hash": "a39f9b024282dcd6",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/393be207.aee828d8.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.59dc09b7.css",
+          "hash": "cb0bf62b8c1c8883",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/css/styles.59dc09b7.css"
+        }
+      ]
+    },
+    "671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.132e6585.js",
+          "hash": "1761e4241beb3e3e",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/0e384e19.132e6585.js"
+        }
+      ]
+    },
+    "697": {
+      "js": [
+        {
+          "file": "assets/js/a751fde8.f14affd2.js",
+          "hash": "1be6700d3a01ae67",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/a751fde8.f14affd2.js"
+        }
+      ]
+    },
+    "817": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.31d87beb.js",
+          "hash": "c04e762cce2f7973",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/14eb3368.31d87beb.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.488379c2.js",
+          "hash": "c398ca7705531c38",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/17896441.488379c2.js"
+        }
+      ]
+    },
+    "972": {
+      "js": [
+        {
+          "file": "assets/js/972.5058414f.js",
+          "hash": "72efa024c2fbbc96",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/972.5058414f.js"
+        },
+        {
+          "file": "assets/js/1be78505.259f4d88.js",
+          "hash": "fd658f21bc9a1b47",
+          "publicPath": "/gitbuilding-for-begineers/pt/assets/js/1be78505.259f4d88.js"
+        }
+      ]
+    }
+  }
+}
