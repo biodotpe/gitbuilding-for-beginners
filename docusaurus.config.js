@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GitBuilding for Begineers',
+  title: 'GitBuilding for Beginners',
   tagline: 'Open-source Hardware Documentation',
   favicon: 'img/favicon.ico',
 
@@ -14,12 +14,12 @@ const config = {
   url: 'https://biodotpe.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/gitbuilding-for-begineers/',
+  baseUrl: '/gitbuilding-for-beginners/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'biodotpe', // Usually your GitHub org/user name.
-  projectName: 'gitbuilding-for-begineers', // Usually your repo name.
+  projectName: 'gitbuilding-for-beginners', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -73,7 +73,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'GitBuilding for Begineers',
+        title: 'GitBuilding for Beginners',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -91,7 +91,7 @@ const config = {
           position: 'right',
           },
           {
-            href: 'https://github.com/biodotpe/gitbuilding-for-begineers',
+            href: 'https://github.com/biodotpe/gitbuilding-for-beginners',
             label: 'GitHub',
             position: 'right',
           },          
@@ -131,7 +131,7 @@ const config = {
               //},
               {
                 label: 'GitHub',
-                href: 'https://github.com/biodotpe/gitbuilding-for-begineers',
+                href: 'https://github.com/biodotpe/gitbuilding-for-beginners',
               },
             ],
           },

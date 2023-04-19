@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "GitBuilding for Begineers",
+  "title": "GitBuilding for Beginners",
   "tagline": "Open-source Hardware Documentation",
   "favicon": "img/favicon.ico",
   "url": "https://biodotpe.github.io",
-  "baseUrl": "/gitbuilding-for-begineers/pt/",
+  "baseUrl": "/gitbuilding-for-beginners/pt/",
   "organizationName": "biodotpe",
-  "projectName": "gitbuilding-for-begineers",
+  "projectName": "gitbuilding-for-beginners",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -52,7 +52,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "GitBuilding for Begineers",
+      "title": "GitBuilding for Beginners",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -71,7 +71,7 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://github.com/biodotpe/gitbuilding-for-begineers",
+          "href": "https://github.com/biodotpe/gitbuilding-for-beginners",
           "label": "GitHub",
           "position": "right"
         }
@@ -108,7 +108,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/biodotpe/gitbuilding-for-begineers"
+              "href": "https://github.com/biodotpe/gitbuilding-for-beginners"
             }
           ]
         }

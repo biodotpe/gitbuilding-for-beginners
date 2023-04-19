@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics-github/deploy-website-github.md",
   "sourceDirName": "tutorial-basics-github",
   "slug": "/tutorial-basics-github/deploy-website-github",
-  "permalink": "/gitbuilding-for-begineers/pt/docs/tutorial-basics-github/deploy-website-github",
+  "permalink": "/gitbuilding-for-beginners/pt/docs/tutorial-basics-github/deploy-website-github",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a GitBuilding Project",
-    "permalink": "/gitbuilding-for-begineers/pt/docs/tutorial-basics-github/create-a-project-windows"
+    "permalink": "/gitbuilding-for-beginners/pt/docs/tutorial-basics-github/create-a-project-windows"
   },
   "next": {
     "title": "GitBuilding - Extras",
-    "permalink": "/gitbuilding-for-begineers/pt/docs/category/gitbuilding---extras"
+    "permalink": "/gitbuilding-for-beginners/pt/docs/category/gitbuilding---extras"
   }
 }

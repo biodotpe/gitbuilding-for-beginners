@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/gitbuilding-for-begineers/pt/markdown-page",
+  "permalink": "/gitbuilding-for-beginners/pt/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
   "title": "Markdown page example",
   "description": "You don't need React to write simple standalone pages.",
