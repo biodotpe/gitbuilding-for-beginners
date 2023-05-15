@@ -1,8 +1,8 @@
 {
-  "label": "GitBuilding and GitHub Pages",
+  "label": "GitBuilding and GitLab Pages",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important GitBuilding concepts."
+    "description": "5 minutes to publish your docs on GitLab Pages."
   }
 }
