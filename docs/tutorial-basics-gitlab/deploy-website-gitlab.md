@@ -17,14 +17,14 @@ Prerequisites:
 
 2. Go to [gitlab.com/projects/new](https://gitlab.com/projects/new) and create a new blank project.
 
-> The project creates a git respository, where you will store the documentation files for your GitBuilding website, and track changes over time.
+> The project creates a git repository, where you will store the documentation files for your GitBuilding website, and track changes over time.
 
 ![gitlab_01.png](./img/gitlab_01.png)
 
 3. Configure the new project's details:
     - Choose a name (and "slug").
     - Set the visibility to public.
-    - Check the "initialize with README" tick box.
+    - Uncheck the "initialize with README" tick box.
     - Click on create when you are ready.
 
 > Choose a nice, short, descriptive name related to _your_ project. But don't worry too much, these details can be updated later on.
@@ -35,7 +35,7 @@ Prerequisites:
 
 4. Save the following information:
   - The project's address, as it appears on your browser's top bar (e.g. `https://gitlab.com/naikymen/gitbuilding-pages-on-gitlab`).
-  - You can save time by clocking on "Add README", which will open GitLab's Web IDE (used in step 7 to upload files).
+  - You can save time by clicking on "Add README", which will open GitLab's Web IDE (used in step 7 to upload files).
 
 <!--   - The name of the project's primary branch (e.g. `main` as shown in the image below). -->
 
