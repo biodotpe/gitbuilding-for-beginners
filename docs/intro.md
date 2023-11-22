@@ -28,7 +28,7 @@ Tutorials are available only for Windows and GitHub users.
 
 ## How to install GitBuilding
 
-To install (for Python 3.6+)
+To install (for Python 3.6+, you need to install python and pip beforehand, see below)
 
 ```bash
 pip install gitbuilding
@@ -47,4 +47,5 @@ Coming soon.
 
 ### macOS
 
-Coming soon.
+Open a terminal windown and verify python and pip are installed running `python3 --version` and `pip3 --version`.
+If all is good, install GitBuilding with `pip3 install gitbuilding`.
