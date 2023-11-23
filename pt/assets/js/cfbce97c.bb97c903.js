@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[387],{3652:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/gitbuilding-for-beginners/pt/blog/tags/hola","allTagsPath":"/gitbuilding-for-beginners/pt/blog/tags","count":1}')}}]);
